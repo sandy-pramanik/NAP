@@ -34,7 +34,7 @@ The followings are the available functions in `NAPfunctions.R`:
 
 <font size="3"> [[List of all functions]](#list-of-functions) </font>
 
-In a $N(\mu,\sigma_0^2)$ population with known variance $\sigma_0^2$, consider the two-sided one-sample $z$-test for testing the point null hypothesis $H_0 : \mu = 0$ against $H_1 : \mu \neq 0$. Based on an observed data, this function calculates the Bayes factor in favor of $H_1$ when a *normal moment prior* is assumed on $\mu$ under the alternative [[Johnson & Rossell (2010)](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9868.2009.00730.x)].
+In a N(\mu,\sigma_0^2) population with known variance $\sigma_0^2$, consider the two-sided one-sample $z$-test for testing the point null hypothesis $H_0 : \mu = 0$ against $H_1 : \mu \neq 0$. Based on an observed data, this function calculates the Bayes factor in favor of $H_1$ when a *normal moment prior* is assumed on $\mu$ under the alternative [[Johnson & Rossell (2010)](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9868.2009.00730.x)].
 
 * **Input:**
   
