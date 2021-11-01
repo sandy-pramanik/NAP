@@ -1,8 +1,7 @@
 
-# Non-local Alternative Priors (NAP) for Bayesian Hypothesis Tests in Psychology
+## Non-local Alternative Priors (NAP) for Bayesian Hypothesis Tests in Psychology
 
-# Article: Sandipan Pramanik and Valen E. Johnson (2021+)
-
+## Authors: Sandipan Pramanik and Valen E. Johnson (2021+)
 
 ## Description
 
