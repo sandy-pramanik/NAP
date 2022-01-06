@@ -1,7 +1,9 @@
 
 ## Non-local Alternative Priors (NAP) for Bayesian Hypothesis Tests in Psychology
 
-## Authors: Sandipan Pramanik and Valen E. Johnson (2022). Efficient Alternatives for Bayesian Hypothesis Tests in Psychology. Psychological Methods.
+## Article
+
+Sandipan Pramanik and Valen E. Johnson (2022). Efficient Alternatives for Bayesian Hypothesis Tests in Psychology. Psychological Methods.
 
 ## Description
 
