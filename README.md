@@ -3,7 +3,7 @@
 
 ## Article
 
-Sandipan Pramanik and Valen E. Johnson (2022). Efficient Alternatives for Bayesian Hypothesis Tests in Psychology. Psychological Methods.
+Sandipan Pramanik and Valen E. Johnson (2022). Efficient Alternatives for Bayesian Hypothesis Tests in Psychology. Psychological Methods. Just accepted.
 
 ## Description
 
