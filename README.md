@@ -3,7 +3,7 @@
 
 ## Article
 
-Sandipan Pramanik and Valen E. Johnson (2022). Efficient Alternatives for Bayesian Hypothesis Tests in Psychology. Psychological Methods. Just accepted.
+Non-local alternative priors for efficient Bayesian hypothesis tests: [Sandipan Pramanik and Valen E. Johnson (2024)](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fmet0000482)
 
 ## Description
 
